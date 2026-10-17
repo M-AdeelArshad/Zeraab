@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to convert the exact SVG vector contour of Sindh from the Home page into a high-precision geographic boundary polygon, install an inverted dark mask on the Mapbox interactive map, enforce strict click blocking with a warning toast, and lock camera panning bounds.",
+  "updatedAt": "2026-10-14T15:24:09.748768488Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

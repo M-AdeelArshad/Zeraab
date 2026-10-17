@@ -1,0 +1,6 @@
+{
+  "name": "Zeraab — Groundwater Arsenic Risk for Sindh",
+  "description": "Free public web platform estimating depth-wise groundwater arsenic contamination across Sindh, Pakistan, to guide safe borehole drilling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
